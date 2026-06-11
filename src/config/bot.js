@@ -136,12 +136,12 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "Aetherfall",
       // Footer icon URL (null = no icon).
       icon: null,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
-    thumbnail: null,
+    thumbnail: "https://r2.fivemanage.com/kV8jbFRbIk5PspWzEeylo/Hytale/Serverbanner.png",
     author: {
       // Optional default embed author block.
       name: null,
